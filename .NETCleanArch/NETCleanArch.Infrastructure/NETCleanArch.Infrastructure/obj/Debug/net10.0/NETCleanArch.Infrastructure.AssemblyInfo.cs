@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NETCleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f49f213d933ee73f071cb3facf141114bca10a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95a55aa7b58b9ded9ca7ea7791597093f6bc9193")]
 [assembly: System.Reflection.AssemblyProductAttribute("NETCleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NETCleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

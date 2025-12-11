@@ -512,7 +512,7 @@
           "Npgsql": "10.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.0",
           "SendGrid": "9.29.3",
-          "System.IdentityModel.Tokens.Jwt": "6.32.0"
+          "System.IdentityModel.Tokens.Jwt": "8.15.0"
         },
         "compile": {
           "bin/placeholder/NETCleanArch.Infrastructure.dll": {}
