@@ -4,7 +4,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using NETCleanArchApplication.Interfaces.ISecurity;
+using NETCleanArch.Application.Interfaces.ISecurity;
 using NETCleanArchDomain.Entities;
 
 namespace NETCleanArchInfrastructure.Security

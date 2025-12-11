@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.Logging;
-using NETCleanArchApplication.Dtos;
-using NETCleanArchApplication.Dtos.Common;
-using NETCleanArchApplication.Interfaces.IRepositories;
-using NETCleanArchApplication.Interfaces.IServices;
+using NETCleanArch.Application.Dtos;
+using NETCleanArch.Application.Dtos.Common;
+using NETCleanArch.Application.Interfaces.IRepositories;
+using NETCleanArch.Application.Interfaces.IServices;
 using NETCleanArchDomain.Entities;
 
-namespace NETCleanArchApplication.Services
+namespace NETCleanArch.Application.Services
 {
     public class ApplicationService : IApplicationService
     {

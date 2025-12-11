@@ -1,8 +1,8 @@
 ﻿using Dapper;
 using Microsoft.Extensions.Logging;
 using System.Data;
-using NETCleanArchApplication.Dtos.Common;
-using NETCleanArchApplication.Interfaces.IRepositories;
+using NETCleanArch.Application.Dtos.Common;
+using NETCleanArch.Application.Interfaces.IRepositories;
 using NETCleanArchDomain.Entities;
 using NETCleanArchInfrastructure.Data;
 using static System.Net.Mime.MediaTypeNames;

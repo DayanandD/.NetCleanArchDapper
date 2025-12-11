@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NETCleanArch.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ac45707099b11406381a64d42ed93e375a9d70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f49f213d933ee73f071cb3facf141114bca10a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NETCleanArch.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NETCleanArch.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

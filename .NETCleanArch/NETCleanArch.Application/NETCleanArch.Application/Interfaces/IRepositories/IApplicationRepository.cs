@@ -1,8 +1,8 @@
 ﻿using System.Data;
-using NETCleanArchApplication.Dtos.Common;
+using NETCleanArch.Application.Dtos.Common;
 using NETCleanArchDomain.Entities;
 
-namespace NETCleanArchApplication.Interfaces.IRepositories
+namespace NETCleanArch.Application.Interfaces.IRepositories
 {
     public interface IApplicationRepository
     {

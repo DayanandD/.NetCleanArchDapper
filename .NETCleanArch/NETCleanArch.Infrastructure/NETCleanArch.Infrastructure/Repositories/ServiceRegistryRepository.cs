@@ -5,8 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NETCleanArchApplication.Dtos.Common;
-using NETCleanArchApplication.Interfaces.IRepositories;
+using NETCleanArch.Application.Dtos.Common;
+using NETCleanArch.Application.Interfaces.IRepositories;
 using NETCleanArchDomain.Entities;
 using NETCleanArchInfrastructure.Data;
 

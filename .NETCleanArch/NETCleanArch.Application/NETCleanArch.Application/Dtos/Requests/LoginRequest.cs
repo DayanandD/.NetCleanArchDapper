@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NETCleanArchApplication.Dtos.Requests
+namespace NETCleanArch.Application.Dtos.Requests
 {
     public class LoginRequest
     {

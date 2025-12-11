@@ -1,7 +1,7 @@
 ﻿using Dapper;
 using System.Data;
 using NETCleanArchDomain.Entities;
-using NETCleanArchApplication.Interfaces.IRepositories;
+using NETCleanArch.Application.Interfaces.IRepositories;
 using NETCleanArchInfrastructure.Data;
 
 namespace NETCleanArchInfrastructure.Repositories

@@ -3,14 +3,14 @@ using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using NETCleanArchApplication.Dtos.Requests;
-using NETCleanArchApplication.Dtos.Responses;
-using NETCleanArchApplication.Interfaces.IRepositories;
-using NETCleanArchApplication.Interfaces.ISecurity;
-using NETCleanArchApplication.Interfaces.IServices;
+using NETCleanArch.Application.Dtos.Requests;
+using NETCleanArch.Application.Dtos.Responses;
+using NETCleanArch.Application.Interfaces.IRepositories;
+using NETCleanArch.Application.Interfaces.ISecurity;
+using NETCleanArch.Application.Interfaces.IServices;
 using NETCleanArchInfrastructure.Notifications.IExternalService;
 
-namespace NETCleanArchApplication.Services
+namespace NETCleanArch.Application.Services
 {
     public class AuthService : IAuthService
     {

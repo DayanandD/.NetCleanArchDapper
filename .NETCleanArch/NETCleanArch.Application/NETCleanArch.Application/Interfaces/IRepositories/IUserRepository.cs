@@ -1,6 +1,6 @@
 ﻿using NETCleanArchDomain.Entities;
 
-namespace NETCleanArchApplication.Interfaces.IRepositories
+namespace NETCleanArch.Application.Interfaces.IRepositories
 {
     public interface IUserRepository // Remove IDisposable inheritance if not needed
     {

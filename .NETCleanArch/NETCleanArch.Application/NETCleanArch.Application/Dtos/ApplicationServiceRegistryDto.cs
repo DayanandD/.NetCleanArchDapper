@@ -1,4 +1,4 @@
-﻿namespace NETCleanArchApplication.Dtos
+﻿namespace NETCleanArch.Application.Dtos
 {
     /// <summary>
     /// DTO for Application Service Registry

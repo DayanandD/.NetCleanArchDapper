@@ -291,9 +291,9 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using NETCleanArchApplication.Dtos;
-using NETCleanArchApplication.Dtos.Common;
-using NETCleanArchApplication.Interfaces.IServices;
+using NETCleanArch.Application.Dtos;
+using NETCleanArch.Application.Dtos.Common;
+using NETCleanArch.Application.Interfaces.IServices;
 
 namespace NETCleanArchApi.Controllers
 {

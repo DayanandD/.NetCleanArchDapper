@@ -1,9 +1,9 @@
 ﻿using Dapper;
 using Microsoft.Extensions.Logging;
 using System.Data;
-using NETCleanArchApplication.Dtos;
-using NETCleanArchApplication.IRepositories;
-using NETCleanArchApplication.Dtos.Common;
+using NETCleanArch.Application.Dtos;
+using NETCleanArch.Application.Interfaces.IRepositories;
+using NETCleanArch.Application.Dtos.Common;
 using NETCleanArchInfrastructure.Data;
 using NETCleanArchInfrastructure.CommonQueries;
 

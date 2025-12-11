@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NETCleanArchDomain.Enums;
 
-namespace NETCleanArchApplication.Dtos.Responses
+namespace NETCleanArch.Application.Dtos.Responses
 {
     public class AuthResponse
     {

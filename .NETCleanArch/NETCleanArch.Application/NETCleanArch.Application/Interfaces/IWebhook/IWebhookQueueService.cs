@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NETCleanArchApplication.Interfaces.IWebhook
+namespace NETCleanArch.Application.Interfaces.IWebhook
 {
     public interface IWebhookQueueService
     {

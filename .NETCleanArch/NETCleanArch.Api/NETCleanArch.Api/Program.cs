@@ -5,10 +5,10 @@ using SendGrid;
 using System.Data;
 using System.Text;
 using NETCleanArchApi.Middleware;
-using NETCleanArchApplication.Interfaces.IRepositories;
-using NETCleanArchApplication.Interfaces.ISecurity;
-using NETCleanArchApplication.Interfaces.IServices;
-using NETCleanArchApplication.Services;
+using NETCleanArch.Application.Interfaces.IRepositories;
+using NETCleanArch.Application.Interfaces.ISecurity;
+using NETCleanArch.Application.Interfaces.IServices;
+using NETCleanArch.Application.Services;
 using NETCleanArchInfrastructure.Data; // Add this using
 using NETCleanArchInfrastructure.Notifications.ExternalService;
 using NETCleanArchInfrastructure.Notifications.IExternalService;

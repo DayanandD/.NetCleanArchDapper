@@ -40,3 +40,12 @@
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/obj/Debug/net10.0/NETCleanArch.Worker.pdb
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/obj/Debug/net10.0/NETCleanArch.Worker.genruntimeconfig.cache
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/obj/Debug/net10.0/ref/NETCleanArch.Worker.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/AutoMapper.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/Newtonsoft.Json.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/SendGrid.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/StarkbankEcdsa.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Worker/NETCleanArch.Worker/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll

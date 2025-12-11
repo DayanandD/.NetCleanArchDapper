@@ -1,4 +1,4 @@
-﻿namespace NETCleanArchApplication.Dtos.Common
+﻿namespace NETCleanArch.Application.Dtos.Common
 {
     public class PaginationRequest
     {

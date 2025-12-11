@@ -64,3 +64,10 @@
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/obj/Debug/net10.0/NETCleanArch.Api.pdb
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/obj/Debug/net10.0/NETCleanArch.Api.genruntimeconfig.cache
 /workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/obj/Debug/net10.0/ref/NETCleanArch.Api.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/AutoMapper.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/Newtonsoft.Json.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/SendGrid.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/StarkbankEcdsa.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Api/NETCleanArch.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

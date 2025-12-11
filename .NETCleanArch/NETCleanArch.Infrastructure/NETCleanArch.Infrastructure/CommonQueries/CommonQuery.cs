@@ -1,4 +1,4 @@
-﻿using NETCleanArchApplication.Dtos.Common;
+﻿using NETCleanArch.Application.Dtos.Common;
 
 namespace NETCleanArchInfrastructure.CommonQueries
 {

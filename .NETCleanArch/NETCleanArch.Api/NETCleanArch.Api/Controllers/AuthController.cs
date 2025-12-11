@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NETCleanArchApplication.Dtos.Requests;
-using NETCleanArchApplication.Interfaces.IServices;
+using NETCleanArch.Application.Dtos.Requests;
+using NETCleanArch.Application.Interfaces.IServices;
 
 namespace NETCleanArchApi.Controllers
 {

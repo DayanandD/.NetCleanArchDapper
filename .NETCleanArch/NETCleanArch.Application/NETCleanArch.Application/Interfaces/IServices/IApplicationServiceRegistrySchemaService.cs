@@ -1,7 +1,7 @@
 ﻿using NETCleanArch.Application.Dtos;
 using NETCleanArch.Application.Dtos.Common;
 
-namespace NETCleanArch.Application.IServices
+namespace NETCleanArch.Application.Interfaces.IServices
 {
     public interface IApplicationServiceRegistrySchemaService
     {

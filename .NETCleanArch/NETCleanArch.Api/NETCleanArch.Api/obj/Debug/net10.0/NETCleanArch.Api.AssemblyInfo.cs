@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NETCleanArch.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd14df82d7e954b7b635bd3b838fe0105e11f55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f49f213d933ee73f071cb3facf141114bca10a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NETCleanArch.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NETCleanArch.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
