@@ -1,0 +1,6 @@
+@NETCleanArch.Api_HostAddress = http://localhost:5009
+
+GET {{NETCleanArch.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

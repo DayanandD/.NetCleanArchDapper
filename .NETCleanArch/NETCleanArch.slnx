@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/NETCleanArch.Api/">
+    <Project Path="NETCleanArch.Api/NETCleanArch.Api/NETCleanArch.Api.csproj" />
+  </Folder>
+  <Folder Name="/NETCleanArch.Application/">
+    <Project Path="NETCleanArch.Application/NETCleanArch.Application/NETCleanArch.Application.csproj" />
+  </Folder>
+  <Folder Name="/NETCleanArch.Domain/">
+    <Project Path="NETCleanArch.Domain/NETCleanArch.Domain/NETCleanArch.Domain.csproj" />
+  </Folder>
+  <Folder Name="/NETCleanArch.Infrastructure/">
+    <Project Path="NETCleanArch.Infrastructure/NETCleanArch.Infrastructure/NETCleanArch.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/NETCleanArch.Worker/">
+    <Project Path="NETCleanArch.Worker/NETCleanArch.Worker/NETCleanArch.Worker.csproj" />
+  </Folder>
+</Solution>

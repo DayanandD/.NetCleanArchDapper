@@ -1,0 +1,16 @@
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/bin/Debug/net10.0/NETCleanArch.Application.deps.json
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/bin/Debug/net10.0/NETCleanArch.Application.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/bin/Debug/net10.0/NETCleanArch.Application.pdb
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/bin/Debug/net10.0/NETCleanArch.Domain.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/bin/Debug/net10.0/NETCleanArch.Domain.pdb
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.csproj.AssemblyReference.cache
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.AssemblyInfoInputs.cache
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.AssemblyInfo.cs
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.csproj.CoreCompileInputs.cache
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.sourcelink.json
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETClean.7E21E55E.Up2Date
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/refint/NETCleanArch.Application.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/NETCleanArch.Application.pdb
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Application/NETCleanArch.Application/obj/Debug/net10.0/ref/NETCleanArch.Application.dll

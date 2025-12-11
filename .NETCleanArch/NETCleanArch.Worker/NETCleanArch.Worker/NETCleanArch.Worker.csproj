@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-NETCleanArch.Worker-b92d2583-dc12-41ba-9bf0-9558687ffb63</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.0" />
+    <PackageReference Include="Serilog" Version="4.3.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="10.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\NETCleanArch.Application\NETCleanArch.Application\NETCleanArch.Application.csproj" />
+    <ProjectReference Include="..\..\NETCleanArch.Infrastructure\NETCleanArch.Infrastructure\NETCleanArch.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

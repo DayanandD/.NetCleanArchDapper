@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NETCleanArch.Domain/1.0.0": {
+        "runtime": {
+          "NETCleanArch.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NETCleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

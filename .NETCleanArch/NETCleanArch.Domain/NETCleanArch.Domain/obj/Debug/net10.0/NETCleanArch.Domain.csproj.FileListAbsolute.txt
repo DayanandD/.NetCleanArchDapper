@@ -1,0 +1,12 @@
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/bin/Debug/net10.0/NETCleanArch.Domain.deps.json
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/bin/Debug/net10.0/NETCleanArch.Domain.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/bin/Debug/net10.0/NETCleanArch.Domain.pdb
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.AssemblyInfoInputs.cache
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.AssemblyInfo.cs
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.csproj.CoreCompileInputs.cache
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.sourcelink.json
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/refint/NETCleanArch.Domain.dll
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/NETCleanArch.Domain.pdb
+/workspaces/.NetCleanArchDapper/.NETCleanArch/NETCleanArch.Domain/NETCleanArch.Domain/obj/Debug/net10.0/ref/NETCleanArch.Domain.dll
